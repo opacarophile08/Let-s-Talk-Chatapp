@@ -63,7 +63,8 @@ Start the Client
 ### Real Time Chatting with Typing indicators
 ![RealTime](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/89cb2af2-0506-4d70-a52e-5b75e5a479b2)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![OneToOne](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/049049c7-ddb1-4e3a-9141-362a9aeb230e)
+
 ### Search Users
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
