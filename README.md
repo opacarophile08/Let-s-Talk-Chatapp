@@ -64,9 +64,8 @@ Start the Client
 ![RealTime](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/89cb2af2-0506-4d70-a52e-5b75e5a479b2)
 ### One to One chat
 ![OneToOne](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/049049c7-ddb1-4e3a-9141-362a9aeb230e)
-
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![SearchUsers](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/e766e632-e0d7-45a0-ba27-05eff15c8f3c)
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
