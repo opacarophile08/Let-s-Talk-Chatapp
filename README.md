@@ -58,6 +58,7 @@ Start the Client
 # Features
 
 ### Authenticaton
+![Authentication](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/598fdbeb-a87e-4fb8-bacc-b0a677d58b49)
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
