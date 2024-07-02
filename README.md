@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# Lest's-Talk
 
-Talk-a-tive is a Full Stack Chatting App.
+Lest's-Talk is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![Demo](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/a9569c4e-85de-4d6d-b1a2-07e4839666a5)
 ## Run Locally
 
 Clone the project
@@ -58,24 +58,24 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![Authentication](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/598fdbeb-a87e-4fb8-bacc-b0a677d58b49)
+![Signup](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/17c740fa-8ce1-45a0-b131-de9b9d78abca)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![RealTime](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/89cb2af2-0506-4d70-a52e-5b75e5a479b2)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![OneToOne](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/049049c7-ddb1-4e3a-9141-362a9aeb230e)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![SearchUsers](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/e766e632-e0d7-45a0-ba27-05eff15c8f3c)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![CreateGroupChat](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/e3223140-7d75-48a4-8a93-8f917e16e9d8)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![Demo](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/a9569c4e-85de-4d6d-b1a2-07e4839666a5)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![AddOrRemove](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/c33f7952-78f8-4995-88a4-7323ed8a67dd)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![ViewOtherUsersProfile](https://github.com/opacarophile08/Let-s-Talk-Chatapp/assets/115164224/7599eedd-ac4c-418c-bd59-287158ef299a)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@Arpit-Pandey](https://github.com/opacarophile08)
 
   
